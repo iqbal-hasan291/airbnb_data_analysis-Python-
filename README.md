@@ -42,12 +42,7 @@ The dataset contains Airbnb listings with the following key columns:
 
 ## Tools Used
 
-- Python 
-- Pandas
-- NumPy
-- Seaborn
-- Matplotlib
-- Jupyter Notebook
+![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/970df29b779e27632f731f51d8c10935ad1497cf/image/_-%20visual%20selection%20(4).png)
 
 ---
 
@@ -73,6 +68,9 @@ The dataset contains Airbnb listings with the following key columns:
 5. **Data Visualization**
    - Used Seaborn and Matplotlib for all visualizations
    - Ensured clear labeling, legends, and presentation
+
+
+![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/970df29b779e27632f731f51d8c10935ad1497cf/image/_-%20visual%20selection%20(3).png)
 
 ---
 
