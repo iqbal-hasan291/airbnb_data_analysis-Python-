@@ -37,7 +37,6 @@ The dataset contains Airbnb listings with the following key columns:
 - `calculated_host_listings_count`, `availability_365`
 - `rating`, `bedrooms`, `beds`, `baths`
 
-Source: *Publicly available sample Airbnb data*
 
 ---
 
@@ -68,12 +67,31 @@ Source: *Publicly available sample Airbnb data*
 
 ## Key Visualizations
 
-- 📦 **Boxplot**: Room Type vs Price  
-- 📍 **Bar Plot**: Top 10 neighborhoods by number of listings  
-- 💲 **Bar Plot**: Average price by neighborhood group  
-- 🌐 **Scatterplot**: Availability vs Rating  
-- 🔥 **Heatmap**: Correlation of all numeric variables  
-- 🛏️ **Boxplot**: Bedrooms vs Price
+-  **price distribution by frequency **
+   ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_1.png)
+-  **Price Distribution by Room Type**
+-  ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_2.png)
+-  Insight: Understand which room types (e.g. entire home, private room) are more expensive.
+-  **Average Price by Neighbourhood Group**
+-  ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_3.png)
+-  Insight: Identify hot rental zones—helpful for market expansion. 
+-  **Top Neighbourhoods by Number of Listings**
+-  ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_4.png)
+-  Insight: Show price variations across city regions. 
+-  **Relationship Between Number of Reviews and Price**
+-  ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_5.png)
+-  Insight: Check if cheaper listings get more reviews (volume strategy).
+-  **Availability vs. Rating**
+-  ![]( https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_6.png)
+-  Insight: Are higher-rated listings more or less available?
+-  **Host Listing Count Analysis**
+-  ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_7.png)
+- Insight: Help customers understand pricing based on space offered.
+-  **Bedroom vs Price Heatmap**
+-  ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_8.png)
+-  Insight: Help customers understand pricing based on space offered.
+-  **Geographic Distribution**
+-  ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_9.png) 
 
 ---
 
