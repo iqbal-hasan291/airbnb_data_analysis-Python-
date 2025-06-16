@@ -63,12 +63,12 @@ The dataset contains Airbnb listings with the following key columns:
    - Removed price outliers for accurate visualizations
 
 3. **Univariate Analysis**
-   - Explored price, availability, reviews, room types
-   - Used histograms and count plots
+   - Explored price, availability, room types etc.
+   - Used histograms and count plots ,boxplot
 
 4. **Bivariate Analysis**
    - Explored relationships between price vs. room type, availability vs. rating, etc.
-   - Used boxplots, scatterplots, and correlation heatmaps
+   - Used boxplots, scatterplots, and  heatmaps
 
 5. **Data Visualization**
    - Used Seaborn and Matplotlib for all visualizations
@@ -126,7 +126,7 @@ The dataset contains Airbnb listings with the following key columns:
   
 -  **Geographic Distribution**
   
-  ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_9.png) 
+   ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_9.png) 
 
 ---
 
