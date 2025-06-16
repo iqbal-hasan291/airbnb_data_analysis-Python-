@@ -40,6 +40,17 @@ The dataset contains Airbnb listings with the following key columns:
 
 ---
 
+## Tools Used
+
+- Python 
+- Pandas
+- NumPy
+- Seaborn
+- Matplotlib
+- Jupyter Notebook
+
+---
+
 ## Workflow & Steps
 
 1. **Initial Exploration**
@@ -68,41 +79,54 @@ The dataset contains Airbnb listings with the following key columns:
 ## Key Visualizations
 
 -  **price distribution by frequency **
+ 
    ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_1.png)
+   
 -  **Price Distribution by Room Type**
--  ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_2.png)
+  
+   ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_2.png)
+   
 -  Insight: Understand which room types (e.g. entire home, private room) are more expensive.
+  
 -  **Average Price by Neighbourhood Group**
--  ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_3.png)
--  Insight: Identify hot rental zones—helpful for market expansion. 
+  
+   ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_3.png)
+   
+-  Insight: Identify hot rental zones—helpful for market expansion.
+  
 -  **Top Neighbourhoods by Number of Listings**
--  ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_4.png)
--  Insight: Show price variations across city regions. 
+   
+   ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_4.png)
+  
+-  Insight: Show price variations across city regions.
+  
 -  **Relationship Between Number of Reviews and Price**
--  ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_5.png)
+  
+   ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_5.png)
+  
 -  Insight: Check if cheaper listings get more reviews (volume strategy).
+  
 -  **Availability vs. Rating**
--  ![]( https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_6.png)
+   
+   ![]( https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_6.png)
+   
 -  Insight: Are higher-rated listings more or less available?
+   
 -  **Host Listing Count Analysis**
--  ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_7.png)
+  
+   ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_7.png)
+  
 - Insight: Help customers understand pricing based on space offered.
+
 -  **Bedroom vs Price Heatmap**
--  ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_8.png)
+  
+   ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_8.png)
+  
 -  Insight: Help customers understand pricing based on space offered.
+  
 -  **Geographic Distribution**
--  ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_9.png) 
-
----
-
-## Key Insights
-
-- **Entire homes/apartments** have significantly higher prices than shared/private rooms.
-- Listings with **lower prices tend to receive more reviews**, suggesting higher booking volume.
-- Certain neighborhoods (like `Downtown`, `Uptown`, etc.) dominate the market.
-- Most hosts own only one listing, but a few **professional hosts** manage 10+ properties.
-- Availability doesn't always correlate with high ratings — hosts should balance booking frequency with guest experience.
-- Prices tend to increase with the **number of bedrooms** and **room type**.
+  
+  ![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/08966c1cf2d6d2ca6dfabe0dd9f6c5c2622f9206/image/image_9.png) 
 
 ---
 
@@ -115,15 +139,7 @@ This analysis highlights how pricing, location, and listing type affect the succ
 
 ---
 
-## Tools Used
 
-- Python 
-- Pandas
-- NumPy
-- Seaborn
-- Matplotlib
-- Jupyter Notebook
 
----
 
 
