@@ -2,7 +2,7 @@
 
 This project involves an in-depth exploratory data analysis (EDA) of Airbnb listings data using Python. The aim is to uncover key insights about pricing, availability, room types, and host behaviors that can guide both Airbnb business decisions and travelers' choices.
 
-![](AirBnB_image.webp)
+![](https://github.com/iqbal-hasan291/airbnb_data_analysis-Python-/blob/c1fc59a26a484f33701b8a0ec3ebd64ff3d02f37/AirBnB_image.webp)
 ---
 
 ## Objective
