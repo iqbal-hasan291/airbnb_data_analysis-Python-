@@ -1,7 +1,7 @@
 # Airbnb Exploratory Data Analysis (EDA) Project
 
 This project involves an in-depth exploratory data analysis (EDA) of Airbnb listings data using Python. The aim is to uncover key insights about pricing, availability, room types, and host behaviors that can guide both Airbnb business decisions and travelers' choices.
-
+![](AirBnB_image.webp)
 ---
 
 ## Objective
